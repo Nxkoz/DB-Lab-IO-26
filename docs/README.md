@@ -7,10 +7,23 @@ footer: "ECL 2.0 Licensed | Copyright © [YYYY] [Your Name]"
 ---
 
 
-**Виконав(-ла):** 
+**Виконали:** 
 
-*студент(-ка) 2-го курсу, групи (шифр групи)*<span padding-right:5em></span> **[ім’я ПРІЗВИЩЕ] [Посилання email, tg, fb]**
+*студенти 2-го курсу, групи ІО-26* 
 
+**[Окрошко Ярослав] [https://t.me/Glimsura]**
+
+**[Ярослав Поволоцький] [https://t.me/X_Rader_zit]**
+
+**[Олександр Єрмак] [https://t.me/ZapeRFeed]**
+
+**[Ксенія Гриценко] [https://t.me/Bull1001]**
+
+**[Микита Козачек] [https://t.me/kznik23]**
+
+**[Ілля Голубєв] [https://t.me/impossiblerage]**
+
+**[Нізар Аль-Мраят] [https://t.me/rickowensoffline]**
 
 **Керівник**
 
