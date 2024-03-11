@@ -318,8 +318,6 @@ PRINCE2, або "Projects IN Controlled Environments," представляє с
 
 ![Схема Kaizen](https://img.freepik.com/premium-vector/kaizen-steps-for-business-activities-that-continuously-improve-all-functions_518018-414.jpg?w=2000)
 
-  *[Розділ містить опис підходів, моделей та способів вирішення завдання.]*
-
 ## Порівняльна характеристика існуючих засобів вирішення завдання
 
 *[Розділ містить опис існуючих програм, інформаційних систем, сервісів, тощо, призначених для вирішення 
