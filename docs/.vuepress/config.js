@@ -95,8 +95,8 @@ module.exports = {
     // editLinkText: 'Ви можете покращити цю сторінку'
 
   },
-  title: 'Назва проєкту',
-  description: 'Курсова робота з дисципліни "Бази даних"',
+  title: 'Система управління проєктами',
+  description: 'Лабораторні роботи з дисципліни "Бази даних"',
   configureWebpack: {
     resolve: {
       alias: {
