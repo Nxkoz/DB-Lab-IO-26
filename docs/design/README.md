@@ -232,4 +232,4 @@ Role_grant - це сутність-асоціація, яка зберігає �
 
 ## Relational Schema
 
-![Db_Model](MySQL.png)
+![Db_Model](./MySQL.png)
