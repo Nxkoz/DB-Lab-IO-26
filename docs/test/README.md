@@ -1,24 +1,70 @@
-# Тестування працездатності системи
+# Тестування працездатності системи за допомогою Postman
 
-# Тестування працездатності системи
+## GET /api/projects
 
-Тестування системи відбувалося за допомогою Swagger
+![](./media/GetAllProjects.png)
 
-## Авторизація користувача
+## POST /api/projects
 
-### Початкове вікно авторизації
-![](./Photos/img_1.png)
+![](./media/PostProject.png)
 
-### Введення даних
-![](./Photos/img_1.png)
+## GET /api/projects/:projectId
 
-### Успішна авторизація
-![](./Photos/img_2.png)
+![](./media/GetProject.png)
 
-### Помилка
-![](./Photos/img_3.png)
+## PATCH /projects/:projectId
 
-## Вигляд даних у базі даних 
-![](./Photos/img_4.png)
+![](./media/PatchProject.png)
 
+## DELETE /projects/projectId
+
+![](./media/DeleteProject.png)
+
+## GET /api/projects/:projectId/reviews
+
+![](./media/GetReview.png)
+
+## POST /api/projects/:projectId/reviews
+
+![](./media/PostReview.png)
+
+## GET /api/tasks
+
+![](./media/GetTasks.png)
+
+## POST /api/tasks
+
+![](./media/PostTask.png)
+
+## GET /api/tasks/:taskId
+
+![](./media/GetTask.png)
+
+## PATCH /api/tasks/:taskId
+
+![](./media/PatchTask.png)
+
+## DELETE /api/tasks/:taskId
+
+![](./media/DeleteTask.png)
+
+## GET /api/users
+
+![](./media/GetUsers.png)
+
+## GET /api/users/:taskId
+
+![](./media/GetUser.png)
+
+## PATCH /api/users/:userId
+
+![](./media/PatchUser.png)
+
+## DELETE /api/users/:userId
+
+![](./media/DeleteUser.png)
+
+## POST /api/users/:userId/projects/:projectId
+
+![](./media/ConnectUser.png)
 
